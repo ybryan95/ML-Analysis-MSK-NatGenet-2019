@@ -1,0 +1,5 @@
+         level_0         level_1        0
+         CDKN2A    CDKN2Ap14ARF  0.717210
+         CDKN2A  CDKN2Ap16INK4A  0.973240
+   CDKN2Ap14ARF  CDKN2Ap16INK4A  0.685260
+          MLL4           STK19   0.631272
