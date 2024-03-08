@@ -1,0 +1,67 @@
+Insight for WT1: The function of the WT1 tumor associated antigen displayed by the Bifidobacterium longum 420 oral cancer vaccine possibly enhances the efficacy of anti-PD-1 and anti-CTLA-4 antibodies in the mouse renal cell carcinoma model.
+Insight for WT1: 0
+Insight for WT1, MYD88: 0
+Insight for WT1: The function of WT1 may potentially relate to the immunotherapy response by inducing immune responses and promoting T-cell and WT1-specific IgG production when combined with anti-PD-1 nivolumab.
+Insight for WT1: The function of WT1 may possibly relate to immunotherapy response through the combined blockade of PD-1 and TIM3, leading to improved expansion of antigen-specific CD8+ T cells for adoptive immunotherapy.
+Insight for WT1: The function of WT1 possibly relates to immunotherapy response by affecting the ratio of WT1-specific cytotoxic lymphocytes (WT1-CTLs) to MPE CD8+ T cells and the fraction of central memory T (TCM) of WT1-CTLs, which may impact the efficacy of immunotherapies targeting PD-1, PDL-1, or CTLA4.
+Insight for WT1: The function of WT1 possibly relates to immunotherapy response by inducing WT1-specific cytotoxic T lymphocytes (CTLs) and helper T lymphocytes (HTLs), which can be enhanced by combination treatment with an anti-PD-1 antibody.
+Insight for WT1: The function of WT1 possibly relates to immunotherapy response by potentially enhancing the stimulatory potential of IL-15 DC vaccines and overcoming PD-1-mediated inhibition by antigen-specific T cells.
+Insight for WT1: The function of the WT1 cancer vaccine possibly relates to enhancing the response to anti-PD-1 antibody treatment, either alone or as an adjunct therapy, in patients with advanced urothelial cancer including bladder cancer.
+Insight for WT1: The function of WT1 may possibly relate to immunotherapy response by increasing the infiltration of CD4+ T cells, CD8+ T cells, and NK cells into the tumor, while the function of anti-PD-1 antibody may be to decrease PD-1 molecule expression on tumor-infiltrating CD8+ T cells.
+Insight for WT1: 0
+Insight for WT1: The function of WT1 possibly relates to immunotherapy response by enhancing T cell reactivity towards PD-L1 silenced AML cells.
+Insight for WT1: The function of WT1 may possibly relate to the immunotherapy response by inducing a systemic and tumor-specific immune stimulatory effect, as evidenced by the transient decrease in regulatory T cells and simultaneous increase in activated PD-1+ T cells after IRE treatment.
+Insight for WT1: 0
+Insight for WT1: The function of WT1 possibly relates to immunotherapy response through the negative regulation of tumor-responding CD8+ T cells by PD-L1.
+Insight for WT1: 0
+Insight for WT1: 0
+Insight for WT1: The function of the WT1 antigen is not mentioned in the text, so it cannot be determined how it relates to immunotherapy response.
+Insight for WT1: 0
+Insight for MYD88: 0
+Insight for MYD88: The function of MYD88 is not mentioned in the text, so it cannot be derived from the current text (0).
+Insight for MYD88: The function of MYD88 may potentially relate to the immunotherapy response by increasing the expression of DAMPs, NLRP3 inflammasome, and pro-inflammatory cytokines such as IL-1β, TNF-α, and IL-6, which are involved in the immune response targeted by PD-1, PDL-1, or CTLA4 inhibitors.
+Insight for MYD88: The function of MYD88 is not mentioned in the current text, so it cannot be derived. (0)
+Insight for MYD88: The function of MYD88 may possibly relate to immunotherapy response through its involvement in the Flagellin/TLR5 signaling pathway, which is activated by flagella and enhances the therapeutic efficacy of Salmonella-mediated cancer therapy.
+Insight for MYD88: 0
+Insight for MYD88: The function of MYD88 may possibly relate to the immunotherapy response by mediating the cytotoxic effects and pro-inflammatory cytokine storm induced by Ipilimumab and Nivolumab.
+Insight for MYD88: 0
+Insight for MYD88: The function of MYD88 may possibly relate to immunotherapy response by enhancing the effectiveness of PD-1 inhibition in combination with pixatimod.
+Insight for MYD88: 0
+Insight for MYD88: The function of MYD88 may possibly relate to immunotherapy response, specifically to the expression of CTLA4, which is associated with poor recurrence-free survival in urothelial cancer patients.
+Insight for MYD88: 0
+Insight for KLF4: The upregulation of KLF-4 by DAC treatment on CRC cells may potentially relate to immunotherapy response, specifically to PD-1, PDL-1, or CTLA4.
+Insight for KLF4: 0
+Insight for KLF4: The function of KLF4 may possibly relate to immunotherapy response by modulating the miR-34a/KLF4 signaling pathway, which influences macrophage polarization and myocardial inflammation induced by PD-1 inhibitor treatment.
+Insight for KLF4: 0
+Insight for BLM: 0
+Insight for BLM: The function of BLM (Bloom syndrome protein) is not mentioned in the text, so it cannot be derived how it possibly relates to immunotherapy response (PD-1, PDL-1, or CTLA4).
+Insight for BLM: The function of BLM possibly relates to immunotherapy response through its involvement in DNA repair, which can affect the expression of PD-1, PD-L1, and CTLA4.
+Insight for BRD4: The function of BRD4 may possibly relate to immunotherapy response by being associated with higher CD47 expression, which is correlated with resistance to immune checkpoint inhibitors and lower response to PD-1, PDL-1, and CTLA4.
+Insight for BRD4: The function of BRD4 may potentially relate to immunotherapy response by regulating DNA repair and promoting immunogenic cell death, thus increasing T cell infiltration and priming, which are important factors in the effectiveness of immunotherapy targeting PD-1, PDL-1, or CTLA4.
+Insight for BRD4: The function of BRD4 may possibly relate to immunotherapy response by regulating the expression of PD-1 and PD-L1, which are key molecules involved in T-cell exhaustion and immune checkpoint inhibition.
+Insight for BRD4: 0
+Insight for BRD4: BRD4's function possibly relates to immunotherapy response by regulating the expression of PD-L1 (CD274) at the mRNA level, along with other transcription factors (IRF1, STAT1, NFKB), and mutations or low miRNA abundance may explain high CD274 levels in patients who do not respond to treatment.
+Insight for BRD4: The function of BRD4 may possibly relate to immunotherapy response by regulating the expression of PD-L1, which is a target of PD-1, PDL-1, or CTLA4 inhibitors.
+Insight for BRD4: The function of BRD4 may potentially relate to immunotherapy response by enhancing the presentation of self-peptide and tumor recruitment of cytotoxic T lymphocytes, which can be further activated by combining with an anti-PD-1 antibody.
+Insight for BRD4: The function of BRD4 may relate to immunotherapy response by inhibiting the overexpression of PD-L1, which can weaken the effects of anti-PD-1 immunotherapy in liver cancer.
+Insight for BRD4: 0
+Insight for BRD4: The co-expression of BRD4 and PD-L1 is associated with poor overall survival in patients with acute myeloid leukemia, suggesting that BRD4 may affect the response to PD-1/PD-L1 immunotherapy.
+Insight for BRD4: The function of BRD4 may potentially relate to the immunotherapy response by regulating the expression of PD-L1 and influencing the state of anti-tumor immune responses in colon cancer.
+Insight for BRD4: BRD4 inhibition suppresses PD-L1 expression and may provide a potential method for blocking the PD-1/PD-L1 immune checkpoint in TNBC.
+Insight for BRD4: The function of BRD4 inhibition by AZD5153 possibly relates to the immunotherapy response by resetting TAMs from M2-type macrophages to M1-like macrophages, promoting pro-inflammatory cytokine secretion, and activating CD8+ cytotoxic T lymphocytes (CTLs) in vitro.
+Insight for BRD4: The function of BRD4 may possibly relate to immunotherapy response by mediating the transcriptional regulation of PD-L1 in pancreatic cancer cells.
+Insight for BRD4: The function of BRD4 may possibly relate to immunotherapy response by regulating the expression of the immune checkpoint ligand PD-L1.
+Insight for RAF1: 0
+Insight for RAF1: The function of RAF1 may possibly relate to immunotherapy response (PD-1, PDL-1, or CTLA4) as it is mentioned as one of the altered genes in advanced urothelial carcinoma and is associated with worse overall survival and failure-free survival.
+Insight for RAF1: The RAF1 fusion in the melanoma may be associated with elevated expression of the RAS/RAF downstream co-effector ETV5 and ERK activation, which could potentially explain the profound response to MEK inhibitor therapy and suggest a possible relationship between RAF1 function and immunotherapy response.
+Insight for RAF1: 0
+Insight for SMAD2: The function of SMAD2 may possibly relate to immunotherapy response by enhancing the sensitivity of pancreatic cancer cells to gemcitabine chemotherapy, suppressing epithelial-mesenchymal transition (EMT) and immune escape, and reducing the expression of PD-L1 and CD47.
+Insight for SMAD2: The function of SMAD2 may possibly relate to immunotherapy response by promoting glycolysis and TGF-β secretion in the tumor microenvironment, leading to immunotherapy resistance in bladder cancer.
+Insight for SMAD2: 0
+Insight for SMAD2: SMAD2's function possibly relates to immunotherapy response by being involved in GC-derived TGF-β1-mediated CD8+ T cell dysfunction, which cannot be attenuated by PD-1 blockade.
+Insight for SMAD2: 0
+Insight for SMAD2: The function of SMAD2 may possibly relate to immunotherapy response by affecting the activation of CD8 T cells and the presence of TGFβ in nonirradiated tumors, which can be enhanced by TGFβ blockade in combination with radioimmunotherapy.
+Insight for SMAD2: The function of SMAD2 is not mentioned in the text, so it cannot be derived how it possibly relates to immunotherapy response.
+Insight for SMAD2: The function of SMAD2 possibly relates to immunotherapy response through its involvement in TGFβ signaling, which promotes the expression of immune checkpoint molecules such as PDL1 and CTLA4, as well as the activation and binding of NK cells to cancer cells.
+Insight for SMAD2: 0
+Insight for SMAD2: 0
